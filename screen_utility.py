@@ -7,6 +7,6 @@ class Screen_Position:
         # current position in memory
         return self.position
     
-    def update_pos(self,x ,y)
-        # updates the position
+    def update_pos(self,x ,y):
+                # updates the position
         self.position = (x, y)
